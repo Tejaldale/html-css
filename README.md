@@ -1,3 +1,3 @@
 # html-css
 These is my first reposistory
-Author - Tejal Dale
+Author - Tejal Dale(student)
